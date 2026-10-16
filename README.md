@@ -43,7 +43,6 @@ Digunakan untuk mengelompokkan lokasi layanan kesehatan berdasarkan koordinat la
 
 - `health.csv` — dataset yang digunakan untuk analisis.
 - `project.ipynb` — notebook berisi proses analisis data dan penerapan Machine Learning.
-- `random_forest_health.pkl` — file model yang sudah disimpan setelah proses training.
 
 File model akan tersedia setelah proses penyimpanan model berhasil dijalankan.
 
